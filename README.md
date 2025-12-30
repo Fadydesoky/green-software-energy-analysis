@@ -1,4 +1,7 @@
+![Research](https://img.shields.io/badge/Research-Green%20Software-blue)
 # Green Software Energy Analysis
+
+A repository dedicated to enhancing energy efficiency in software systems through data-driven analysis.
 
 This repository contains research-oriented work by **Fady Desoky Saeed Abdelaziz** focused on analyzing software resource usage and energy consumption to support sustainable Green Software Engineering practices.
 
