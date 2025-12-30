@@ -1,6 +1,7 @@
-![Research](https://img.shields.io/badge/Research-Green%20Software-blue)
-![GitHub Repo stars](https://img.shields.io/github/stars/Fadydesoky/green-software-energy-analysis)
-![License](https://img.shields.io/github/license/Fadydesoky/green-software-energy-analysis)
+![Research](https://img.shields.io/badge/Research-Green%20Software-2E7D32)
+![Focus](https://img.shields.io/badge/Focus-Energy%20Efficiency-1565C0)
+![Status](https://img.shields.io/badge/Status-Research--Oriented-424242)
+![License](https://img.shields.io/badge/License-MIT-blue)
 # Green Software Energy Analysis
 
 A repository dedicated to enhancing energy efficiency in software systems through data-driven analysis.
