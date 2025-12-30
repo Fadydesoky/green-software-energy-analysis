@@ -1,7 +1,5 @@
-![Research](https://img.shields.io/badge/Research-Green%20Software-2E7D32)
-![Focus](https://img.shields.io/badge/Focus-Energy%20Efficiency-1565C0)
-![Status](https://img.shields.io/badge/Status-Research--Oriented-424242)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Research](https://img.shields.io/badge/Research-Green%20Software-2E7D32) ![Focus](https://img.shields.io/badge/Focus-Energy%20Efficiency-1565C0) ![Status](https://img.shields.io/badge/Status-Research--Oriented-424242) ![License](https://img.shields.io/badge/License-MIT-blue) ## License
+This project is licensed under the MIT License. ![Year](https://img.shields.io/badge/Year-2025-007ACC)
 # Green Software Energy Analysis
 
 A repository dedicated to enhancing energy efficiency in software systems through data-driven analysis.
