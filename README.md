@@ -1,6 +1,5 @@
 ![Research](https://img.shields.io/badge/Research-Green%20Software-2E7D32) ![Focus](https://img.shields.io/badge/Focus-Energy%20Efficiency-1565C0) ![Status](https://img.shields.io/badge/Status-Research--Oriented-424242) ![License](https://img.shields.io/badge/License-MIT-blue)  ![Year](https://img.shields.io/badge/Year-2025-007ACC)
-# License
-This project is licensed under the MIT License.
+
 # Green Software Energy Analysis
 
 A repository dedicated to enhancing energy efficiency in software systems through data-driven analysis.
@@ -28,3 +27,6 @@ Software Engineering undergraduate at Sadat Academy for Management Sciences & re
 - ORCID: https://orcid.org/0009-0006-0629-7396
 - Academia.edu: https://sadatacademy.academia.edu/FadyDesokySaeedAbdelaziz
 - Loop: https://loop.frontiersin.org/people/3322416/overview
+
+## License
+This project is licensed under the MIT License.
